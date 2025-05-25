@@ -1,0 +1,71 @@
+h1 {
+    background-color: chartreuse;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    border: 5px solid red;
+    margin: 60px;
+}
+
+.last-image{
+    border-bottom: 10px solid aqua;
+}
+
+.round-border{
+    border-top-left-radius: 500px 100px;
+}
+
+a{
+    text-decoration: none;
+    font-style: italic;}
+.cat-names {
+    color: blueviolet;
+}
+
+.cat-day {
+    color: brown;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+ span{
+    font-weight: bold;
+}
+
+.cat-day span {
+    color: orangered;
+}
+
+.border{
+    border-top: 3px solid greenyellow;
+    border-bottom: 2px dotted purple;
+    border-left: 3px double orange;
+    border-right: 3px dashed red;
+}
+
+.purple-text{
+    color:purple;
+}
+
+.image{
+    width: 200px;
+    height: 120px;
+    vertical-align: middle;
+    border-color: gold;
+}
+
+.last-li{
+    color: blueviolet;
+    background-color: yellowgreen;
+}
+
+ol{
+    list-style-position: inside;
+}
